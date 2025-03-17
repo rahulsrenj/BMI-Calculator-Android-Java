@@ -11,3 +11,7 @@ This is a BMI Calculator created in Android using Java as the language. It is on
 ![result](https://github.com/user-attachments/assets/0ac00f15-f3c0-4a47-be1d-34902045678e)
 
 
+# Tools Used
+ - Android Studio IDE
+ - Java 
+ - XML
