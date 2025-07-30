@@ -1,7 +1,7 @@
 
 # BMI Calculator
 
-This is a BMI Calculator created in Android using Java as the language. It is one of the best android project to do as a beginner.
+This is a BMI Calculator created in Android using Java as the language.
 
 
 
